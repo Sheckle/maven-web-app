@@ -93,17 +93,20 @@
 		
 	</dependencies>
 
+	http://18.188.249.224:8888/mylandmarktech/repository/BOA2-web-app-release/
+	http://18.188.249.224:8888/mylandmarktech/repository/BOA2-web-app-snapshot/
+	
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.188.191.115:8888/mylandmarktech/repository/boa-release/</url>
+	      <url>http://18.188.249.224:8888/mylandmarktech/repository/BOA2-web-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.188.191.115:8888/mylandmarktech/repository/boa-snashot/</url>
+	      <url>http://18.188.249.224:8888/mylandmarktech/repository/BOA2-web-app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
