@@ -92,9 +92,6 @@
 		</dependency>
 		
 	</dependencies>
-
-	http://18.188.249.224:8888/mylandmarktech/repository/BOA2-web-app-release/
-	http://18.188.249.224:8888/mylandmarktech/repository/BOA2-web-app-snapshot/
 	
 	<distributionManagement>
 	    <repository>
