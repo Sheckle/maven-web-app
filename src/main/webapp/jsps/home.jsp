@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technology. 
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance.
+<h1 align="center">Sheckledon's World</h1>
+<h2 align="center"> Welcome to Don's World. 
+	Don's World is a an ideal online training  platform for DevOps and Cloud Engineers. 
+	We offer interview preparations and job assitance. In addition, my wife rocks. To the moon and back it is.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
@@ -20,7 +20,7 @@
 		<img src="images/log4.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
+		Don's World, 
 		Toronto, Ontario, Canada
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
